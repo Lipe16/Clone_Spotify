@@ -4,4 +4,4 @@ Fiz esse projeto com  ajuda de um curso voltado para web e disponibilizo o mater
 para que mais pessoas possam aprender a desenvolver páginas vendo trabalho de
 profissionais altamente estabelecidos no mercado.
 
-site original www.spotify.com/
+site original www.spotify.com
